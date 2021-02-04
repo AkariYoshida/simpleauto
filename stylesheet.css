@@ -28,7 +28,7 @@ img {
   }
   
 .top-wrapper {
-    background-image: url(images/main.jpeg);
+    background-image: url(./images/main.jpeg);
     background-size: cover;
 
 }
